@@ -2,16 +2,28 @@
 
 Classifying Iris flower species using Machine Learning
 
+Check out [iris_classifier.ipyb](iris_classifier.ipyb) for the code
 
-We have used Naive Bayes Algorithm for our model
+[app](app) contains files for the web app which is under development
 
-## What is machine learning, how is it used?
+
+## Table of contents
+
+1. [Intro](#What-is-machine-learning?)
+2. [Problem](#Our-Problem)
+3. [Solution](#Solution)
+4. [Naive Bayes Algorithim](##Why-we-used-Naive-Bayes-Algorithm)
+5. [About us and the project](#About-us-and-the-project)
+
+
+## What is machine learning?
 
 Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
 
 Machine learning is used in internet search engines, email filters to sort out spam, websites to make personalised recommendations, banking software to detect unusual transactions, and lots of apps on our phones such as voice recognition.
 
-## Our problem statement
+
+## Our Problem
 
 Iris Classification is perhaps the best-known example in the field of machine learning.The aim is to classify iris flowers among three species (setosa, versicolor, or virginica) from measurements of sepals and petals' length and width.The iris data set contains 3 classes of 150 instances each, where each class refers to a type of iris plant.
 
