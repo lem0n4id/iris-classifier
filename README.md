@@ -2,7 +2,7 @@
 
 Classifying Iris flower species using Machine Learning
 
-Check out [iris_classifier.ipyb](iris_classifier.ipyb) for the code
+Check out [iris_classifier.ipynb](Iris_model/iris_classifier.ipynb) for the code
 
 [app](app) contains files for the web app which is under development
 
